@@ -1,0 +1,12 @@
+{
+  "name": "ayi-baykus",
+  "description": "Ayı ile Baykuş durum çubuğu",
+  "owner": { "name": "anillaksu", "url": "https://github.com/anillaksu" },
+  "plugins": [
+    {
+      "name": "ayi-baykus",
+      "source": "./",
+      "description": "Durum çubuğunu oturumun o anki hâline göre değişen piksel bir sahneye çevirir; ayı ve baykuş birlikte yaşar."
+    }
+  ]
+}

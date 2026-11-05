@@ -1,0 +1,11 @@
+{
+  "name": "ayi-baykus",
+  "displayName": "Ayı ile Baykuş",
+  "version": "1.0.0",
+  "description": "Durum çubuğunu oturumun o anki hâline göre değişen piksel bir sahneye çevirir; ayı ve baykuş birlikte yaşar.",
+  "author": { "name": "anillaksu", "url": "https://github.com/anillaksu" },
+  "homepage": "https://anillaksu.github.io/ayi-baykus/",
+  "repository": "https://github.com/anillaksu/ayi-baykus",
+  "license": "MIT",
+  "keywords": ["statusline", "pixel-art", "mascot", "terminal"]
+}
