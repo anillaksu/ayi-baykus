@@ -1,7 +1,7 @@
 {
   "name": "ayi-baykus",
   "displayName": "Ayı ile Baykuş",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Durum çubuğunu oturumun o anki hâline göre değişen piksel bir sahneye çevirir; ayı ve baykuş birlikte yaşar.",
   "author": { "name": "anillaksu", "url": "https://github.com/anillaksu" },
   "homepage": "https://anillaksu.github.io/ayi-baykus/",

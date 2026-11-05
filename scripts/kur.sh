@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Ayı ile Baykuş: durum çubuğunu kurar. Önceki ayarı yedekler, kaldir.sh geri alır.
 set -eu
-C="${CLAUDE_CONFIG_DIR:-$HOME/.claude}"; H="$C/ayi-baykus"; S="$C/settings.json"
+C="${CLAUDE_CONFIG_DIR:-$HOME/.claude}"; C="${C//\\//}"; H="$C/ayi-baykus"; S="$C/settings.json"
 BURADA="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 if [ "${BASH_VERSINFO[0]}" -lt 4 ] || { [ "${BASH_VERSINFO[0]}" -eq 4 ] && [ "${BASH_VERSINFO[1]}" -lt 3 ]; }; then
